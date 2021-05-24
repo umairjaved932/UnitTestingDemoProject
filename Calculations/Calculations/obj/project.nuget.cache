@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5kgDsSmmC0N0BdvTbXUp7LT4OqIJsOMaHJ2KEYTqJ7R281Hm5CXXNsoOFXczVD4nyna9qmB6uqAs3Sd6K/rKPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uja\\source\\repos\\Calculations\\Calculations\\Calculations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
